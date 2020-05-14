@@ -11,3 +11,6 @@ Each of you will create a new folder on your computer with short bio for each pe
 
 >push it to your repo when you finish.
 
+
+1. [Gelila](Gelila.md)
+2. [Anna](Anna.md)
